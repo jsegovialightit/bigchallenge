@@ -1,3 +1,7 @@
+
+
+<img src="https://raw.githubusercontent.com/jsegovialightit/bigchallenge/main/screenshots/intro.png" width="30px" data-canonical-src="https://raw.githubusercontent.com/jsegovialightit/bigchallenge/main/screenshots/intro.png" style="width: 1000px;">
+
 # The submissions app
 ## Light-it BigChallenge Joaquin Segovia
 Project to complete the Light-it's Front-end Onboarding process 
@@ -32,9 +36,9 @@ En esta app puedes encontrar y listar prescripciones medicas. Tambien puede crea
 
 ## Work progress' Screenshots
 
-<h3> You can find more in <a title="ScreensShots Folder" href="https://github.com/jsegovialightit/reactshop/tree/main/screenshots" target="_blank">ScreensShots Folder</a></h3>
+<h3> You can find more in <a title="ScreensShots Folder" href="https://github.com/jsegovialightit/bigchallenge/tree/main/screenshots" target="_blank">ScreensShots Folder</a></h3>
 
-<img src="https://raw.githubusercontent.com/jsegovialightit/reactshop/main/screenshots/mock.png" width="30px" data-canonical-src="https://raw.githubusercontent.com/jsegovialightit/reactshop/main/screenshots/mock.png" style="width: 1000px;">
+<img src="https://raw.githubusercontent.com/jsegovialightit/bigchallenge/main/screenshots/mock.png" width="30px" data-canonical-src="https://raw.githubusercontent.com/jsegovialightit/bigchallenge/main/screenshots/mock.png" style="width: 1000px;">
 
 ## Built With
 
