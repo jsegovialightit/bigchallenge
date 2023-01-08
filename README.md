@@ -4,6 +4,8 @@ Project to complete the Light-it's Front-end Onboarding process
 
 Try it on https://jsegovialightit.github.io/bigchallenge/
 
+## Table of content
+
 - [About this app](#about-this-app)
 - [Generals](#introduction)
 - [Work progress' Screenshots](#work-progress'-screenshots)
