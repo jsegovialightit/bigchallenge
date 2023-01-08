@@ -34,8 +34,6 @@ En esta app puedes encontrar y listar prescripciones medicas. Tambien puede crea
 
 <img src="https://raw.githubusercontent.com/jsegovialightit/reactshop/main/screenshots/01.png" width="30px" data-canonical-src="https://raw.githubusercontent.com/jsegovialightit/reactshop/main/screenshots/01.png" style="width: 1000px;">
 
-
-
 ## Built With
 
 ![Tech](https://img.shields.io/badge/Angular.js-red)
