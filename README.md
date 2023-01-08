@@ -34,7 +34,7 @@ En esta app puedes encontrar y listar prescripciones medicas. Tambien puede crea
 
 <h3> You can find more in <a title="ScreensShots Folder" href="https://github.com/jsegovialightit/reactshop/tree/main/screenshots" target="_blank">ScreensShots Folder</a></h3>
 
-<img src="https://raw.githubusercontent.com/jsegovialightit/reactshop/main/screenshots/01.png" width="30px" data-canonical-src="https://raw.githubusercontent.com/jsegovialightit/reactshop/main/screenshots/01.png" style="width: 1000px;">
+<img src="https://raw.githubusercontent.com/jsegovialightit/reactshop/main/screenshots/mock.png" width="30px" data-canonical-src="https://raw.githubusercontent.com/jsegovialightit/reactshop/main/screenshots/mock.png" style="width: 1000px;">
 
 ## Built With
 
