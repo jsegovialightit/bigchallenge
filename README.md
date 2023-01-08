@@ -34,6 +34,9 @@ Click-up board :: https://app.clickup.com/3015277/v/b/li/900800149686?pr=3029409
 🇪🇸 The submissions app es una aplicación web diseñada en Figma para web y mobile. con el propósito de llevarla a código en Angular.
 En esta app puedes encontrar y listar prescripciones medicas. Tambien puede crear una nueva si eres un paciente.
 
+### Presentation
+You can accesto to DEMO video and slides:: URL to be compelted
+
 ## Work progress' Screenshots
 
 <h3> You can find more in <a title="ScreensShots Folder" href="https://github.com/jsegovialightit/bigchallenge/tree/main/screenshots" target="_blank">ScreensShots Folder</a></h3>
