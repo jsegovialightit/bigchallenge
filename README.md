@@ -1,5 +1,5 @@
 # The submissions app
-# Light-it BigChallenge Joaquin Segovia
+## Light-it BigChallenge Joaquin Segovia
 Project to complete the Light-it's Front-end Onboarding process 
 
 Try it on https://jsegovialightit.github.io/bigchallenge/
