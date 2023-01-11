@@ -18,6 +18,11 @@ import { PatSubmissionsComponent } from './components/patient/pat-submissions/pa
 import { PatSubmissionDetailComponent } from './components/patient/pat-submission-detail/pat-submission-detail.component';
 import { PatSubmissionNewComponent } from './components/patient/pat-submission-new/pat-submission-new.component';
 
+import { CommonModule } from '@angular/common';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+
+import { ToastrModule } from 'ngx-toastr';
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -36,7 +41,20 @@ import { PatSubmissionNewComponent } from './components/patient/pat-submission-n
     PatSubmissionDetailComponent,
     PatSubmissionNewComponent,
   ],
-  imports: [BrowserModule, AppRoutingModule],
+  imports: [
+    BrowserModule,
+    AppRoutingModule,
+    CommonModule,
+    BrowserAnimationsModule, // required animations module
+    ToastrModule.forRoot({
+      timeOut: 10000,
+      // extendedTimeOut: 99999,
+      positionClass: 'toast-top-right',
+      preventDuplicates: false,
+      closeButton: true,
+      progressBar: true,
+    }), // ToastrModule added
+  ],
   providers: [],
   bootstrap: [AppComponent],
 })
